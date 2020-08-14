@@ -1,0 +1,44 @@
+#logo{
+    width: 130px;
+}
+#logo{
+    margin-right: 7%;
+}
+#search{
+    width: 450px;
+}
+#busqueda{
+    margin-right:120px;
+}
+.card{
+    width: 18rem; 
+    float: left; 
+    margin-right: 10px; 
+    margin-top: 40px;
+}
+#precio{
+    color: #4aa31a;
+}
+#card_detalles{
+    width: 100%; 
+    float: left;
+    margin:7px;
+    border: none;
+}
+#categoria{
+    margin-left: 15px;
+}
+#btnGroupDrop1{
+    background-color: #e57c0b; 
+    border-color: #ff7802;
+}
+#navbar{
+    background-color: #ff7802; 
+}
+table,.datos{
+    background-color: black;
+    color:white;
+}
+.eliminar{
+    width: 100px;
+}
